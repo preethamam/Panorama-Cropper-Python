@@ -1,6 +1,4 @@
 # Introduction
-[![View Panorama image cropper on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/102554-panorama-image-cropper) [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=preethamam/panoramaCropper)
-
 Crops a fully stitched panorama with black/white background.
 
 # Example 1: White background
@@ -16,8 +14,12 @@ Crops a fully stitched panorama with black/white background.
 | Cropped image | ![cropped](https://user-images.githubusercontent.com/28588878/143264182-d472d40c-8b24-4728-8304-42a7cfbbfed8.jpg) |
 
 # Requirements
-MATLAB <br />
 Python + external libraries <br />
+imutils==0.5.4 <br />
+numba==0.60.0 <br />
+numpy==2.2.1 <br />
+opencv_contrib_python==4.10.0.84 <br />
+opencv_python_headless==4.10.0.84 <br />
 OpenCV <br />
 
 # Citation
