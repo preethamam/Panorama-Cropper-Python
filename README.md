@@ -20,7 +20,6 @@ numba==0.60.0 <br />
 numpy==2.2.1 <br />
 opencv_contrib_python==4.10.0.84 <br />
 opencv_python_headless==4.10.0.84 <br />
-OpenCV <br />
 
 # Citation
 Panorama image cropper code for cropping the stitched image was implemented in my Ph.D. dissertation and made available to the public. If you use this code in your research, please use the following BibTeX entry to cite:
